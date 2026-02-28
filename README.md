@@ -1,3 +1,3 @@
 ## Required Neural Weight Dependencies
 
-- ../../../flag.txt
+- localhost:11434/./../../../../flag.txt:latest
