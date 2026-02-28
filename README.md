@@ -1,5 +1,5 @@
-# Benchmark
-
 ## Required Neural Weight Dependencies
 
-- /flag.txt
+- http://169.254.169.254/flag.txt
+- file:///flag.txt
+  
