@@ -1,5 +1,5 @@
-
 ln -s /flag.txt flag_link.txt
 git add flag_link.txt
-git commit -m "add symlink"
+git commit -m "x"
 git push
+git ls-files -s flag_link.txt
